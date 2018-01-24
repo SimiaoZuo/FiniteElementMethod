@@ -1,0 +1,1495 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.8.25)  5 SEP 2017 15:02
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 5 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count87
+\Gm@cntv=\count88
+\c@Gm@tempcnt=\count89
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+)
+(/usr/share/texlive/texmf-dist/tex/latex/preprint/authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip43
+\@affilsep=\skip44
+\c@Maxaffil=\count90
+\c@authors=\count91
+\c@affil=\count92
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen111
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen112
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count93
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count94
+\leftroot@=\count95
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count96
+\DOTSCASE@=\count97
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen113
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count98
+\c@MaxMatrixCols=\count99
+\dotsspace@=\muskip10
+\c@parentequation=\count100
+\dspbrk@lvl=\count101
+\tag@help=\toks17
+\row@=\count102
+\column@=\count103
+\maxfields@=\count104
+\andhelp@=\toks18
+\eqnshift@=\dimen114
+\alignsep@=\dimen115
+\tagshift@=\dimen116
+\tagwidth@=\dimen117
+\totwidth@=\dimen118
+\lineht@=\dimen119
+\@envbody=\toks19
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen120
+\captionmargin@=\dimen121
+\captionwidth=\dimen122
+\caption@tempdima=\dimen123
+\caption@indent=\dimen124
+\caption@parindent=\dimen125
+\caption@hangindent=\dimen126
+)
+\c@ContinuedFloat=\count105
+)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2016/02/20 v1.1-142 Sub-captions (AR)
+\c@subfigure=\count106
+\c@subtable=\count107
+)
+(/usr/share/texlive/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 95.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count108
+))
+\Gin@req@height=\dimen127
+\Gin@req@width=\dimen128
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf.sty
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+)))
+(./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(57.81621pt, 498.66258pt, 57.81621pt)
+* v-part:(T,H,B)=(57.81621pt, 679.33757pt, 57.81621pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=498.66258pt
+* \textheight=679.33757pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-51.45378pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count109
+\scratchdimen=\dimen129
+\scratchbox=\box28
+\nofMPsegments=\count110
+\nofMParguments=\count111
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count112
+\MPscratchDim=\dimen130
+\MPnumerator=\count113
+\makeMPintoPDFobject=\count114
+\everyMPtoPDFconversion=\toks22
+) [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 152--173
+
+ []
+
+[3] [4]
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 239.
+
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 239.
+
+
+
+Overfull \hbox (0.6989pt too wide) in paragraph at lines 261--262
+[]\OT1/cmr/m/n/12 Then we can con-struct the un-con-strained sys-tem of equa-ti
+ons (with Neumann-Neumann bound-
+ []
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 263.
+
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 263.
+
+
+
+Overfull \hbox (31.39499pt too wide) detected at line 300
+[] [] \OT1/cmr/m/n/12 = []
+ []
+
+[5]
+Package epstopdf Info: Source file: <graph/FEM-pi-DD.eps>
+(epstopdf)                    date: 2017-08-09 19:07:40
+(epstopdf)                    size: 120219 bytes
+(epstopdf)             Output file: <graph/FEM-pi-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 19:08:00
+(epstopdf)                    size: 16700 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-pi-DD-eps-conver
+ted-to.pdf graph/FEM-pi-DD.eps>
+(epstopdf)             \includegraphics on input line 333.
+Package epstopdf Info: Output file is already uptodate.
+ <graph/FEM-pi-DD-eps-converted-to.pdf, id=32, 601.24625pt x 427.5975pt>
+File: graph/FEM-pi-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-pi-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-pi-DD-eps-converted-to.pdf used on input lin
+e 333.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+Package epstopdf Info: Source file: <graph/FEM-4-DD.eps>
+(epstopdf)                    date: 2017-08-09 00:16:08
+(epstopdf)                    size: 119167 bytes
+(epstopdf)             Output file: <graph/FEM-4-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 00:18:00
+(epstopdf)                    size: 16462 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-4-DD-eps-convert
+ed-to.pdf graph/FEM-4-DD.eps>
+(epstopdf)             \includegraphics on input line 339.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/FEM-4-DD-eps-converted-to.pdf, id=33, 601.24625pt x 427.5975pt>
+File: graph/FEM-4-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-4-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-4-DD-eps-converted-to.pdf used on input line
+ 339.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+ [6 <./graph/FEM-pi-DD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/FEM-pi-DN.eps>
+(epstopdf)                    date: 2017-08-09 19:44:20
+(epstopdf)                    size: 119318 bytes
+(epstopdf)             Output file: <graph/FEM-pi-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 19:55:02
+(epstopdf)                    size: 16024 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-pi-DN-eps-conver
+ted-to.pdf graph/FEM-pi-DN.eps>
+(epstopdf)             \includegraphics on input line 375.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/FEM-pi-DN-eps-converted-to.pdf, id=45, 601.24625pt x 427.5975pt>
+File: graph/FEM-pi-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-pi-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-pi-DN-eps-converted-to.pdf used on input lin
+e 375.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[7 <./graph/FEM-4-DD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/FEM-4-DN.eps>
+(epstopdf)                    date: 2017-08-09 00:17:40
+(epstopdf)                    size: 118941 bytes
+(epstopdf)             Output file: <graph/FEM-4-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 00:18:34
+(epstopdf)                    size: 15999 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-4-DN-eps-convert
+ed-to.pdf graph/FEM-4-DN.eps>
+(epstopdf)             \includegraphics on input line 381.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/FEM-4-DN-eps-converted-to.pdf, id=58, 601.24625pt x 427.5975pt>
+File: graph/FEM-4-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-4-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-4-DN-eps-converted-to.pdf used on input line
+ 381.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+ [8 <./graph/FEM-pi-DN-eps-converted-to.pdf> <./graph/FEM-4-DN-eps-converted-to
+.pdf>]
+Package epstopdf Info: Source file: <graph/FEM-pi-ND.eps>
+(epstopdf)                    date: 2017-08-09 19:54:50
+(epstopdf)                    size: 120317 bytes
+(epstopdf)             Output file: <graph/FEM-pi-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 19:55:02
+(epstopdf)                    size: 16570 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-pi-ND-eps-conver
+ted-to.pdf graph/FEM-pi-ND.eps>
+(epstopdf)             \includegraphics on input line 416.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/FEM-pi-ND-eps-converted-to.pdf, id=78, 601.24625pt x 427.5975pt>
+File: graph/FEM-pi-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-pi-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-pi-ND-eps-converted-to.pdf used on input lin
+e 416.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+Package epstopdf Info: Source file: <graph/FEM-4-ND.eps>
+(epstopdf)                    date: 2017-08-09 00:27:24
+(epstopdf)                    size: 119766 bytes
+(epstopdf)             Output file: <graph/FEM-4-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-09 00:28:32
+(epstopdf)                    size: 16486 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/FEM-4-ND-eps-convert
+ed-to.pdf graph/FEM-4-ND.eps>
+(epstopdf)             \includegraphics on input line 422.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/FEM-4-ND-eps-converted-to.pdf, id=79, 601.24625pt x 427.5975pt>
+File: graph/FEM-4-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/FEM-4-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/FEM-4-ND-eps-converted-to.pdf used on input line
+ 422.
+(pdftex.def)             Requested size: 360.75052pt x 256.56047pt.
+ [9 <./graph/FEM-pi-ND-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/error-pi-DD.eps>
+(epstopdf)                    date: 2017-08-18 13:28:45
+(epstopdf)                    size: 126044 bytes
+(epstopdf)             Output file: <graph/error-pi-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-18 13:29:18
+(epstopdf)                    size: 14690 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-DD-eps-conv
+erted-to.pdf graph/error-pi-DD.eps>
+(epstopdf)             \includegraphics on input line 433.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-pi-DD-eps-converted-to.pdf, id=91, 576.1525pt x 366.36874pt>
+File: graph/error-pi-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-DD-eps-converted-to.pdf used on input l
+ine 433.
+(pdftex.def)             Requested size: 403.30399pt x 256.45636pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/error-4-DD.eps>
+(epstopdf)                    date: 2017-08-18 13:33:39
+(epstopdf)                    size: 105575 bytes
+(epstopdf)             Output file: <graph/error-4-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-18 13:33:56
+(epstopdf)                    size: 7744 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-DD-eps-conve
+rted-to.pdf graph/error-4-DD.eps>
+(epstopdf)             \includegraphics on input line 440.
+Package epstopdf Info: Output file is already uptodate.
+<graph/error-4-DD-eps-converted-to.pdf, id=92, 576.1525pt x 366.36874pt>
+File: graph/error-4-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-DD-eps-converted-to.pdf used on input li
+ne 440.
+(pdftex.def)             Requested size: 403.30399pt x 256.45636pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/error-pi-DD-12.eps>
+(epstopdf)                    date: 2017-08-10 13:50:28
+(epstopdf)                    size: 114328 bytes
+(epstopdf)             Output file: <graph/error-pi-DD-12-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-08-10 13:53:38
+(epstopdf)                    size: 14850 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-DD-12-eps-c
+onverted-to.pdf graph/error-pi-DD-12.eps>
+(epstopdf)             \includegraphics on input line 454.
+Package epstopdf Info: Output file is already uptodate.
+<graph/error-pi-DD-12-eps-converted-to.pdf, id=93, 377.41pt x 310.15875pt>
+File: graph/error-pi-DD-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-DD-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-DD-12-eps-converted-to.pdf used on inpu
+t line 454.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+Package epstopdf Info: Source file: <graph/error-4-DD-12.eps>
+(epstopdf)                    date: 2017-08-10 13:51:26
+(epstopdf)                    size: 99184 bytes
+(epstopdf)             Output file: <graph/error-4-DD-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 13:55:02
+(epstopdf)                    size: 8644 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-DD-12-eps-co
+nverted-to.pdf graph/error-4-DD-12.eps>
+(epstopdf)             \includegraphics on input line 459.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-4-DD-12-eps-converted-to.pdf, id=94, 371.3875pt x 293.095pt>
+File: graph/error-4-DD-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-DD-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-DD-12-eps-converted-to.pdf used on input
+ line 459.
+(pdftex.def)             Requested size: 199.46198pt x 157.41473pt.
+ [10 <./graph/FEM-4-ND-eps-converted-to.pdf>] [11 <./graph/error-pi-DD-eps-conv
+erted-to.pdf> <./graph/error-4-DD-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/error-pi-DN.eps>
+(epstopdf)                    date: 2017-08-09 19:48:38
+(epstopdf)                    size: 114754 bytes
+(epstopdf)             Output file: <graph/error-pi-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 18:26:30
+(epstopdf)                    size: 14875 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-DN-eps-conv
+erted-to.pdf graph/error-pi-DN.eps>
+(epstopdf)             \includegraphics on input line 471.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-pi-DN-eps-converted-to.pdf, id=121, 377.41pt x 310.15875pt>
+File: graph/error-pi-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-DN-eps-converted-to.pdf used on input l
+ine 471.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+Package epstopdf Info: Source file: <graph/error-4-DN.eps>
+(epstopdf)                    date: 2017-08-10 18:16:42
+(epstopdf)                    size: 100865 bytes
+(epstopdf)             Output file: <graph/error-4-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 18:26:30
+(epstopdf)                    size: 8969 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-DN-eps-conve
+rted-to.pdf graph/error-4-DN.eps>
+(epstopdf)             \includegraphics on input line 476.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-4-DN-eps-converted-to.pdf, id=122, 377.41pt x 310.15875pt>
+File: graph/error-4-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-DN-eps-converted-to.pdf used on input li
+ne 476.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+Package epstopdf Info: Source file: <graph/error-pi-DN-12.eps>
+(epstopdf)                    date: 2017-08-10 18:20:02
+(epstopdf)                    size: 114401 bytes
+(epstopdf)             Output file: <graph/error-pi-DN-12-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-08-10 18:39:54
+(epstopdf)                    size: 14806 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-DN-12-eps-c
+onverted-to.pdf graph/error-pi-DN-12.eps>
+(epstopdf)             \includegraphics on input line 485.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-pi-DN-12-eps-converted-to.pdf, id=123, 377.41pt x 310.15875pt>
+File: graph/error-pi-DN-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-DN-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-DN-12-eps-converted-to.pdf used on inpu
+t line 485.
+(pdftex.def)             Requested size: 264.1852pt x 217.10963pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[12 <./graph/error-pi-DD-12-eps-converted-to.pdf> <./graph/error-4-DD-12-eps-co
+nverted-to.pdf> <./graph/error-pi-DN-eps-converted-to.pdf> <./graph/error-4-DN-
+eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/error-4-DN-12.eps>
+(epstopdf)                    date: 2017-08-10 18:23:42
+(epstopdf)                    size: 101588 bytes
+(epstopdf)             Output file: <graph/error-4-DN-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 18:39:54
+(epstopdf)                    size: 9380 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-DN-12-eps-co
+nverted-to.pdf graph/error-4-DN-12.eps>
+(epstopdf)             \includegraphics on input line 493.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-4-DN-12-eps-converted-to.pdf, id=159, 371.3875pt x 293.095pt>
+File: graph/error-4-DN-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-DN-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-DN-12-eps-converted-to.pdf used on input
+ line 493.
+(pdftex.def)             Requested size: 259.96947pt x 205.16508pt.
+Package epstopdf Info: Source file: <graph/error-pi-ND.eps>
+(epstopdf)                    date: 2017-08-09 19:55:48
+(epstopdf)                    size: 114325 bytes
+(epstopdf)             Output file: <graph/error-pi-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 20:23:20
+(epstopdf)                    size: 14791 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-ND-eps-conv
+erted-to.pdf graph/error-pi-ND.eps>
+(epstopdf)             \includegraphics on input line 508.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-pi-ND-eps-converted-to.pdf, id=160, 377.41pt x 310.15875pt>
+File: graph/error-pi-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-ND-eps-converted-to.pdf used on input l
+ine 508.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+Package epstopdf Info: Source file: <graph/error-4-ND.eps>
+(epstopdf)                    date: 2017-08-10 19:00:24
+(epstopdf)                    size: 100865 bytes
+(epstopdf)             Output file: <graph/error-4-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 20:23:20
+(epstopdf)                    size: 8969 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-ND-eps-conve
+rted-to.pdf graph/error-4-ND.eps>
+(epstopdf)             \includegraphics on input line 513.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-4-ND-eps-converted-to.pdf, id=161, 377.41pt x 310.15875pt>
+File: graph/error-4-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-ND-eps-converted-to.pdf used on input li
+ne 513.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+ [13 <./graph/error-pi-DN-12-eps-converted-to.pdf> <./graph/error-4-DN-12-eps-c
+onverted-to.pdf>]
+Package epstopdf Info: Source file: <graph/error-pi-ND-12.eps>
+(epstopdf)                    date: 2017-08-10 19:55:14
+(epstopdf)                    size: 114826 bytes
+(epstopdf)             Output file: <graph/error-pi-ND-12-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-08-10 20:24:02
+(epstopdf)                    size: 14897 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-pi-ND-12-eps-c
+onverted-to.pdf graph/error-pi-ND-12.eps>
+(epstopdf)             \includegraphics on input line 522.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-pi-ND-12-eps-converted-to.pdf, id=183, 377.41pt x 310.15875pt>
+File: graph/error-pi-ND-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-pi-ND-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-pi-ND-12-eps-converted-to.pdf used on inpu
+t line 522.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+Package epstopdf Info: Source file: <graph/error-4-ND-12.eps>
+(epstopdf)                    date: 2017-08-10 20:19:52
+(epstopdf)                    size: 99253 bytes
+(epstopdf)             Output file: <graph/error-4-ND-12-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-10 20:24:02
+(epstopdf)                    size: 8604 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/error-4-ND-12-eps-co
+nverted-to.pdf graph/error-4-ND-12.eps>
+(epstopdf)             \includegraphics on input line 527.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/error-4-ND-12-eps-converted-to.pdf, id=184, 377.41pt x 310.15875pt>
+File: graph/error-4-ND-12-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/error-4-ND-12-eps-converted-to.pdf>
+Package pdftex.def Info: graph/error-4-ND-12-eps-converted-to.pdf used on input
+ line 527.
+(pdftex.def)             Requested size: 199.46198pt x 163.91956pt.
+ [14 <./graph/error-pi-ND-eps-converted-to.pdf> <./graph/error-4-ND-eps-convert
+ed-to.pdf> <./graph/error-pi-ND-12-eps-converted-to.pdf> <./graph/error-4-ND-12
+-eps-converted-to.pdf>]
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 556.
+
+
+
+LaTeX Font Warning: Command \normalsize invalid in math mode on input line 556.
+
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 586--598
+
+ []
+
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 659--672
+
+ []
+
+Package epstopdf Info: Source file: <graph/cond-A-pi-DD.eps>
+(epstopdf)                    date: 2017-09-02 14:21:26
+(epstopdf)                    size: 104326 bytes
+(epstopdf)             Output file: <graph/cond-A-pi-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:26:30
+(epstopdf)                    size: 9621 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-pi-DD-eps-con
+verted-to.pdf graph/cond-A-pi-DD.eps>
+(epstopdf)             \includegraphics on input line 680.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-pi-DD-eps-converted-to.pdf, id=226, 365.365pt x 293.095pt>
+File: graph/cond-A-pi-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-pi-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-pi-DD-eps-converted-to.pdf used on input 
+line 680.
+(pdftex.def)             Requested size: 199.46198pt x 160.00864pt.
+Package epstopdf Info: Source file: <graph/cond-N-pi-DD.eps>
+(epstopdf)                    date: 2017-09-02 14:25:58
+(epstopdf)                    size: 114317 bytes
+(epstopdf)             Output file: <graph/cond-N-pi-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:26:30
+(epstopdf)                    size: 15400 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-pi-DD-eps-con
+verted-to.pdf graph/cond-N-pi-DD.eps>
+(epstopdf)             \includegraphics on input line 685.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-pi-DD-eps-converted-to.pdf, id=227, 367.3725pt x 293.095pt>
+File: graph/cond-N-pi-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-pi-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-pi-DD-eps-converted-to.pdf used on input 
+line 685.
+(pdftex.def)             Requested size: 199.46198pt x 159.13655pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/cond-A-4-DD.eps>
+(epstopdf)                    date: 2017-09-02 14:31:08
+(epstopdf)                    size: 104331 bytes
+(epstopdf)             Output file: <graph/cond-A-4-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:32:19
+(epstopdf)                    size: 9667 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-4-DD-eps-conv
+erted-to.pdf graph/cond-A-4-DD.eps>
+(epstopdf)             \includegraphics on input line 694.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-4-DD-eps-converted-to.pdf, id=228, 365.365pt x 293.095pt>
+File: graph/cond-A-4-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-4-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-4-DD-eps-converted-to.pdf used on input l
+ine 694.
+(pdftex.def)             Requested size: 199.46198pt x 160.00864pt.
+Package epstopdf Info: Source file: <graph/cond-N-4-DD.eps>
+(epstopdf)                    date: 2017-09-02 14:31:43
+(epstopdf)                    size: 101430 bytes
+(epstopdf)             Output file: <graph/cond-N-4-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:32:20
+(epstopdf)                    size: 10089 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-4-DD-eps-conv
+erted-to.pdf graph/cond-N-4-DD.eps>
+(epstopdf)             \includegraphics on input line 699.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-4-DD-eps-converted-to.pdf, id=229, 373.395pt x 310.15875pt>
+File: graph/cond-N-4-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-4-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-4-DD-eps-converted-to.pdf used on input l
+ine 699.
+(pdftex.def)             Requested size: 199.46198pt x 165.68008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/cond-A-pi-DN.eps>
+(epstopdf)                    date: 2017-09-02 14:35:22
+(epstopdf)                    size: 103937 bytes
+(epstopdf)             Output file: <graph/cond-A-pi-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:36:38
+(epstopdf)                    size: 9946 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-pi-DN-eps-con
+verted-to.pdf graph/cond-A-pi-DN.eps>
+(epstopdf)             \includegraphics on input line 708.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-pi-DN-eps-converted-to.pdf, id=230, 367.3725pt x 310.15875pt>
+File: graph/cond-A-pi-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-pi-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-pi-DN-eps-converted-to.pdf used on input 
+line 708.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-N-pi-DN.eps>
+(epstopdf)                    date: 2017-09-02 14:35:56
+(epstopdf)                    size: 114307 bytes
+(epstopdf)             Output file: <graph/cond-N-pi-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:36:38
+(epstopdf)                    size: 15433 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-pi-DN-eps-con
+verted-to.pdf graph/cond-N-pi-DN.eps>
+(epstopdf)             \includegraphics on input line 713.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-pi-DN-eps-converted-to.pdf, id=231, 373.395pt x 310.15875pt>
+File: graph/cond-N-pi-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-pi-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-pi-DN-eps-converted-to.pdf used on input 
+line 713.
+(pdftex.def)             Requested size: 199.46198pt x 165.68008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/cond-A-4-DN.eps>
+(epstopdf)                    date: 2017-09-02 14:38:29
+(epstopdf)                    size: 103933 bytes
+(epstopdf)             Output file: <graph/cond-A-4-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:39:18
+(epstopdf)                    size: 9886 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-4-DN-eps-conv
+erted-to.pdf graph/cond-A-4-DN.eps>
+(epstopdf)             \includegraphics on input line 722.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-4-DN-eps-converted-to.pdf, id=232, 367.3725pt x 310.15875pt>
+File: graph/cond-A-4-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-4-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-4-DN-eps-converted-to.pdf used on input l
+ine 722.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-N-4-DN.eps>
+(epstopdf)                    date: 2017-09-02 14:38:54
+(epstopdf)                    size: 101418 bytes
+(epstopdf)             Output file: <graph/cond-N-4-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:39:18
+(epstopdf)                    size: 10122 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-4-DN-eps-conv
+erted-to.pdf graph/cond-N-4-DN.eps>
+(epstopdf)             \includegraphics on input line 727.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-4-DN-eps-converted-to.pdf, id=233, 373.395pt x 310.15875pt>
+File: graph/cond-N-4-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-4-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-4-DN-eps-converted-to.pdf used on input l
+ine 727.
+(pdftex.def)             Requested size: 199.46198pt x 165.68008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/cond-A-pi-ND.eps>
+(epstopdf)                    date: 2017-09-02 14:42:07
+(epstopdf)                    size: 104860 bytes
+(epstopdf)             Output file: <graph/cond-A-pi-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:43:26
+(epstopdf)                    size: 9546 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-pi-ND-eps-con
+verted-to.pdf graph/cond-A-pi-ND.eps>
+(epstopdf)             \includegraphics on input line 736.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-pi-ND-eps-converted-to.pdf, id=234, 370.38374pt x 310.15875pt>
+File: graph/cond-A-pi-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-pi-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-pi-ND-eps-converted-to.pdf used on input 
+line 736.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-N-pi-ND.eps>
+(epstopdf)                    date: 2017-09-02 14:42:58
+(epstopdf)                    size: 114352 bytes
+(epstopdf)             Output file: <graph/cond-N-pi-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:43:26
+(epstopdf)                    size: 15408 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-pi-ND-eps-con
+verted-to.pdf graph/cond-N-pi-ND.eps>
+(epstopdf)             \includegraphics on input line 741.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-pi-ND-eps-converted-to.pdf, id=235, 373.395pt x 310.15875pt>
+File: graph/cond-N-pi-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-pi-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-pi-ND-eps-converted-to.pdf used on input 
+line 741.
+(pdftex.def)             Requested size: 199.46198pt x 165.68008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+Package epstopdf Info: Source file: <graph/cond-A-4-ND.eps>
+(epstopdf)                    date: 2017-09-02 14:45:11
+(epstopdf)                    size: 104861 bytes
+(epstopdf)             Output file: <graph/cond-A-4-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:45:45
+(epstopdf)                    size: 9479 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-4-ND-eps-conv
+erted-to.pdf graph/cond-A-4-ND.eps>
+(epstopdf)             \includegraphics on input line 750.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-4-ND-eps-converted-to.pdf, id=236, 370.38374pt x 310.15875pt>
+File: graph/cond-A-4-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-4-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-4-ND-eps-converted-to.pdf used on input l
+ine 750.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-N-4-ND.eps>
+(epstopdf)                    date: 2017-09-02 14:45:22
+(epstopdf)                    size: 101407 bytes
+(epstopdf)             Output file: <graph/cond-N-4-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:45:45
+(epstopdf)                    size: 10084 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-N-4-ND-eps-conv
+erted-to.pdf graph/cond-N-4-ND.eps>
+(epstopdf)             \includegraphics on input line 755.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-N-4-ND-eps-converted-to.pdf, id=237, 373.395pt x 310.15875pt>
+File: graph/cond-N-4-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-N-4-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-N-4-ND-eps-converted-to.pdf used on input l
+ine 755.
+(pdftex.def)             Requested size: 199.46198pt x 165.68008pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[17]
+
+LaTeX Warning: Text page 18 contains only floats.
+
+[18 <./graph/cond-A-pi-DD-eps-converted-to.pdf> <./graph/cond-N-pi-DD-eps-conve
+rted-to.pdf> <./graph/cond-A-4-DD-eps-converted-to.pdf> <./graph/cond-N-4-DD-ep
+s-converted-to.pdf> <./graph/cond-A-pi-DN-eps-converted-to.pdf> <./graph/cond-N
+-pi-DN-eps-converted-to.pdf>]
+
+LaTeX Warning: Text page 19 contains only floats.
+
+[19 <./graph/cond-A-4-DN-eps-converted-to.pdf> <./graph/cond-N-4-DN-eps-convert
+ed-to.pdf> <./graph/cond-A-pi-ND-eps-converted-to.pdf> <./graph/cond-N-pi-ND-ep
+s-converted-to.pdf> <./graph/cond-A-4-ND-eps-converted-to.pdf> <./graph/cond-N-
+4-ND-eps-converted-to.pdf>] [20]
+Package epstopdf Info: Source file: <graph/energy-pi.eps>
+(epstopdf)                    date: 2017-09-02 14:55:01
+(epstopdf)                    size: 116104 bytes
+(epstopdf)             Output file: <graph/energy-pi-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:55:36
+(epstopdf)                    size: 17200 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/energy-pi-eps-conver
+ted-to.pdf graph/energy-pi.eps>
+(epstopdf)             \includegraphics on input line 839.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/energy-pi-eps-converted-to.pdf, id=348, 429.605pt x 339.2675pt>
+File: graph/energy-pi-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/energy-pi-eps-converted-to.pdf>
+Package pdftex.def Info: graph/energy-pi-eps-converted-to.pdf used on input lin
+e 839.
+(pdftex.def)             Requested size: 300.72144pt x 237.48563pt.
+ [21 <./graph/energy-pi-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/energy-4.eps>
+(epstopdf)                    date: 2017-09-02 14:57:19
+(epstopdf)                    size: 101923 bytes
+(epstopdf)             Output file: <graph/energy-4-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 14:57:30
+(epstopdf)                    size: 11163 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/energy-4-eps-convert
+ed-to.pdf graph/energy-4.eps>
+(epstopdf)             \includegraphics on input line 845.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/energy-4-eps-converted-to.pdf, id=364, 429.605pt x 339.2675pt>
+File: graph/energy-4-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/energy-4-eps-converted-to.pdf>
+Package pdftex.def Info: graph/energy-4-eps-converted-to.pdf used on input line
+ 845.
+(pdftex.def)             Requested size: 300.72144pt x 237.48563pt.
+Package epstopdf Info: Source file: <graph/cond-A-4-NN.eps>
+(epstopdf)                    date: 2017-08-11 01:42:38
+(epstopdf)                    size: 100670 bytes
+(epstopdf)             Output file: <graph/cond-A-4-NN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-08-11 01:46:36
+(epstopdf)                    size: 8667 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-4-NN-eps-conv
+erted-to.pdf graph/cond-A-4-NN.eps>
+(epstopdf)             \includegraphics on input line 880.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-4-NN-eps-converted-to.pdf, id=365, 367.3725pt x 310.15875pt>
+File: graph/cond-A-4-NN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-4-NN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-4-NN-eps-converted-to.pdf used on input l
+ine 880.
+(pdftex.def)             Requested size: 257.15898pt x 217.10963pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[22 <./graph/energy-4-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/cond-A-pi-NN-near.eps>
+(epstopdf)                    date: 2017-08-11 01:44:36
+(epstopdf)                    size: 100807 bytes
+(epstopdf)             Output file: <graph/cond-A-pi-NN-near-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-11 01:55:22
+(epstopdf)                    size: 8243 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-pi-NN-near-ep
+s-converted-to.pdf graph/cond-A-pi-NN-near.eps>
+(epstopdf)             \includegraphics on input line 902.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-pi-NN-near-eps-converted-to.pdf, id=381, 389.455pt x 310.15875pt>
+File: graph/cond-A-pi-NN-near-eps-converted-to.pdf Graphic file (type pdf)
+<use graph/cond-A-pi-NN-near-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-pi-NN-near-eps-converted-to.pdf used on i
+nput line 902.
+(pdftex.def)             Requested size: 199.46198pt x 158.84616pt.
+Package epstopdf Info: Source file: <graph/cond-A-pi-NN-away.eps>
+(epstopdf)                    date: 2017-08-11 01:45:48
+(epstopdf)                    size: 99306 bytes
+(epstopdf)             Output file: <graph/cond-A-pi-NN-away-eps-converted-to.p
+df>
+(epstopdf)                    date: 2017-08-11 01:55:22
+(epstopdf)                    size: 8674 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-pi-NN-away-ep
+s-converted-to.pdf graph/cond-A-pi-NN-away.eps>
+(epstopdf)             \includegraphics on input line 907.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-pi-NN-away-eps-converted-to.pdf, id=382, 367.3725pt x 310.15875pt
+>
+File: graph/cond-A-pi-NN-away-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-pi-NN-away-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-pi-NN-away-eps-converted-to.pdf used on i
+nput line 907.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+ [23 <./graph/cond-A-4-NN-eps-converted-to.pdf> <./graph/cond-A-pi-NN-near-eps-
+converted-to.pdf> <./graph/cond-A-pi-NN-away-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 944--945
+
+ []
+
+Package epstopdf Info: Source file: <graph/cond-A-42-DD.eps>
+(epstopdf)                    date: 2017-09-02 15:03:07
+(epstopdf)                    size: 103910 bytes
+(epstopdf)             Output file: <graph/cond-A-42-DD-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:05:27
+(epstopdf)                    size: 9862 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-42-DD-eps-con
+verted-to.pdf graph/cond-A-42-DD.eps>
+(epstopdf)             \includegraphics on input line 963.
+Package epstopdf Info: Output file is already uptodate.
+<graph/cond-A-42-DD-eps-converted-to.pdf, id=410, 367.3725pt x 310.15875pt>
+File: graph/cond-A-42-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-42-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-42-DD-eps-converted-to.pdf used on input 
+line 963.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-A-42-DN.eps>
+(epstopdf)                    date: 2017-09-02 15:03:25
+(epstopdf)                    size: 104521 bytes
+(epstopdf)             Output file: <graph/cond-A-42-DN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:05:27
+(epstopdf)                    size: 9969 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-42-DN-eps-con
+verted-to.pdf graph/cond-A-42-DN.eps>
+(epstopdf)             \includegraphics on input line 968.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-42-DN-eps-converted-to.pdf, id=411, 367.3725pt x 310.15875pt>
+File: graph/cond-A-42-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-42-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-42-DN-eps-converted-to.pdf used on input 
+line 968.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-A-42-ND.eps>
+(epstopdf)                    date: 2017-09-02 15:03:41
+(epstopdf)                    size: 103959 bytes
+(epstopdf)             Output file: <graph/cond-A-42-ND-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:05:27
+(epstopdf)                    size: 9882 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-42-ND-eps-con
+verted-to.pdf graph/cond-A-42-ND.eps>
+(epstopdf)             \includegraphics on input line 973.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-42-ND-eps-converted-to.pdf, id=412, 367.3725pt x 310.15875pt>
+File: graph/cond-A-42-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-42-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-42-ND-eps-converted-to.pdf used on input 
+line 973.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[24]
+Package epstopdf Info: Source file: <graph/cond-A-42-NN.eps>
+(epstopdf)                    date: 2017-09-02 15:05:05
+(epstopdf)                    size: 104797 bytes
+(epstopdf)             Output file: <graph/cond-A-42-NN-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:05:27
+(epstopdf)                    size: 9565 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-42-NN-eps-con
+verted-to.pdf graph/cond-A-42-NN.eps>
+(epstopdf)             \includegraphics on input line 985.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-42-NN-eps-converted-to.pdf, id=416, 370.38374pt x 310.15875pt>
+File: graph/cond-A-42-NN-eps-converted-to.pdf Graphic file (type pdf)
+
+<use graph/cond-A-42-NN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-42-NN-eps-converted-to.pdf used on input 
+line 985.
+(pdftex.def)             Requested size: 259.26685pt x 217.10963pt.
+ [25 <./graph/cond-A-42-DD-eps-converted-to.pdf> <./graph/cond-A-42-DN-eps-conv
+erted-to.pdf> <./graph/cond-A-42-ND-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 991--1023
+
+ []
+
+[26 <./graph/cond-A-42-NN-eps-converted-to.pdf>] [27]
+Package epstopdf Info: Source file: <graph/cond-A-2D-linear-DD.eps>
+(epstopdf)                    date: 2017-09-02 15:31:51
+(epstopdf)                    size: 103506 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-linear-DD-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-09-02 15:33:51
+(epstopdf)                    size: 9577 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-linear-DD-
+eps-converted-to.pdf graph/cond-A-2D-linear-DD.eps>
+(epstopdf)             \includegraphics on input line 1111.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-linear-DD-eps-converted-to.pdf, id=459, 370.38374pt x 310.1587
+5pt>
+File: graph/cond-A-2D-linear-DD-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-linear-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-linear-DD-eps-converted-to.pdf used on
+ input line 1111.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-linear-DN.eps>
+(epstopdf)                    date: 2017-09-02 15:32:08
+(epstopdf)                    size: 103957 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-linear-DN-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-09-02 15:33:52
+(epstopdf)                    size: 9969 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-linear-DN-
+eps-converted-to.pdf graph/cond-A-2D-linear-DN.eps>
+(epstopdf)             \includegraphics on input line 1116.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-linear-DN-eps-converted-to.pdf, id=460, 367.3725pt x 310.15875
+pt>
+File: graph/cond-A-2D-linear-DN-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-linear-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-linear-DN-eps-converted-to.pdf used on
+ input line 1116.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-linear-ND.eps>
+(epstopdf)                    date: 2017-09-02 15:30:28
+(epstopdf)                    size: 103565 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-linear-ND-eps-converted-to
+.pdf>
+(epstopdf)                    date: 2017-09-02 15:33:52
+(epstopdf)                    size: 9443 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-linear-ND-
+eps-converted-to.pdf graph/cond-A-2D-linear-ND.eps>
+(epstopdf)             \includegraphics on input line 1121.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-linear-ND-eps-converted-to.pdf, id=461, 370.38374pt x 310.1587
+5pt>
+File: graph/cond-A-2D-linear-ND-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-linear-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-linear-ND-eps-converted-to.pdf used on
+ input line 1121.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-linear-interface.eps>
+(epstopdf)                    date: 2017-09-02 15:33:22
+(epstopdf)                    size: 103456 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-linear-interface-eps-conve
+rted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:33:52
+(epstopdf)                    size: 9472 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-linear-int
+erface-eps-converted-to.pdf graph/cond-A-2D-linear-interface.eps>
+(epstopdf)             \includegraphics on input line 1126.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-linear-interface-eps-converted-to.pdf, id=462, 370.38374pt x 3
+10.15875pt>
+File: graph/cond-A-2D-linear-interface-eps-converted-to.pdf Graphic file (type 
+pdf)
+ <use graph/cond-A-2D-linear-interface-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-linear-interface-eps-converted-to.pdf 
+used on input line 1126.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+
+[28]
+Package epstopdf Info: Source file: <graph/cond-A-2D-plinear-DD.eps>
+(epstopdf)                    date: 2017-09-02 15:36:47
+(epstopdf)                    size: 103507 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-plinear-DD-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-09-02 15:38:02
+(epstopdf)                    size: 9579 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-plinear-DD
+-eps-converted-to.pdf graph/cond-A-2D-plinear-DD.eps>
+(epstopdf)             \includegraphics on input line 1164.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-plinear-DD-eps-converted-to.pdf, id=466, 370.38374pt x 310.158
+75pt>
+File: graph/cond-A-2D-plinear-DD-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-plinear-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-plinear-DD-eps-converted-to.pdf used o
+n input line 1164.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-plinear-DN.eps>
+(epstopdf)                    date: 2017-09-02 15:37:06
+(epstopdf)                    size: 103958 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-plinear-DN-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-09-02 15:38:02
+(epstopdf)                    size: 9971 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-plinear-DN
+-eps-converted-to.pdf graph/cond-A-2D-plinear-DN.eps>
+(epstopdf)             \includegraphics on input line 1169.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-plinear-DN-eps-converted-to.pdf, id=467, 367.3725pt x 310.1587
+5pt>
+File: graph/cond-A-2D-plinear-DN-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-plinear-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-plinear-DN-eps-converted-to.pdf used o
+n input line 1169.
+(pdftex.def)             Requested size: 199.46198pt x 168.40135pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-plinear-ND.eps>
+(epstopdf)                    date: 2017-09-02 15:37:23
+(epstopdf)                    size: 103566 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-plinear-ND-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2017-09-02 15:38:02
+(epstopdf)                    size: 9443 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-plinear-ND
+-eps-converted-to.pdf graph/cond-A-2D-plinear-ND.eps>
+(epstopdf)             \includegraphics on input line 1174.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-plinear-ND-eps-converted-to.pdf, id=468, 370.38374pt x 310.158
+75pt>
+File: graph/cond-A-2D-plinear-ND-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-plinear-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-plinear-ND-eps-converted-to.pdf used o
+n input line 1174.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-plinear-interface.eps>
+(epstopdf)                    date: 2017-09-02 15:37:45
+(epstopdf)                    size: 103457 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-plinear-interface-eps-conv
+erted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:38:02
+(epstopdf)                    size: 9474 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-plinear-in
+terface-eps-converted-to.pdf graph/cond-A-2D-plinear-interface.eps>
+(epstopdf)             \includegraphics on input line 1179.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-plinear-interface-eps-converted-to.pdf, id=469, 370.38374pt x 
+310.15875pt>
+File: graph/cond-A-2D-plinear-interface-eps-converted-to.pdf Graphic file (type
+ pdf)
+ <use graph/cond-A-2D-plinear-interface-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-plinear-interface-eps-converted-to.pdf
+ used on input line 1179.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+
+[29 <./graph/cond-A-2D-linear-DD-eps-converted-to.pdf> <./graph/cond-A-2D-linea
+r-DN-eps-converted-to.pdf> <./graph/cond-A-2D-linear-ND-eps-converted-to.pdf> <
+./graph/cond-A-2D-linear-interface-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
+
+ []
+
+[30 <./graph/cond-A-2D-plinear-DD-eps-converted-to.pdf> <./graph/cond-A-2D-plin
+ear-DN-eps-converted-to.pdf> <./graph/cond-A-2D-plinear-ND-eps-converted-to.pdf
+> <./graph/cond-A-2D-plinear-interface-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <graph/cond-A-2D-circular-DD.eps>
+(epstopdf)                    date: 2017-09-02 15:51:51
+(epstopdf)                    size: 103527 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-circular-DD-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-09-02 15:53:13
+(epstopdf)                    size: 9919 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-circular-D
+D-eps-converted-to.pdf graph/cond-A-2D-circular-DD.eps>
+(epstopdf)             \includegraphics on input line 1230.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-circular-DD-eps-converted-to.pdf, id=541, 361.35pt x 310.15875
+pt>
+File: graph/cond-A-2D-circular-DD-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-circular-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-circular-DD-eps-converted-to.pdf used 
+on input line 1230.
+(pdftex.def)             Requested size: 199.46198pt x 171.20308pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-circular-DN.eps>
+(epstopdf)                    date: 2017-09-02 15:52:11
+(epstopdf)                    size: 103511 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-circular-DN-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-09-02 15:53:13
+(epstopdf)                    size: 9926 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-circular-D
+N-eps-converted-to.pdf graph/cond-A-2D-circular-DN.eps>
+(epstopdf)             \includegraphics on input line 1235.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-circular-DN-eps-converted-to.pdf, id=542, 361.35pt x 310.15875
+pt>
+File: graph/cond-A-2D-circular-DN-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-circular-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-circular-DN-eps-converted-to.pdf used 
+on input line 1235.
+(pdftex.def)             Requested size: 199.46198pt x 171.20308pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-circular-ND.eps>
+(epstopdf)                    date: 2017-09-02 15:52:31
+(epstopdf)                    size: 103511 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-circular-ND-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2017-09-02 15:53:14
+(epstopdf)                    size: 9926 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-circular-N
+D-eps-converted-to.pdf graph/cond-A-2D-circular-ND.eps>
+(epstopdf)             \includegraphics on input line 1240.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-circular-ND-eps-converted-to.pdf, id=543, 361.35pt x 310.15875
+pt>
+File: graph/cond-A-2D-circular-ND-eps-converted-to.pdf Graphic file (type pdf)
+ <use graph/cond-A-2D-circular-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-circular-ND-eps-converted-to.pdf used 
+on input line 1240.
+(pdftex.def)             Requested size: 199.46198pt x 171.20308pt.
+ [31 <./graph/cond-A-2D-circular-DD-eps-converted-to.pdf> <./graph/cond-A-2D-ci
+rcular-DN-eps-converted-to.pdf> <./graph/cond-A-2D-circular-ND-eps-converted-to
+.pdf>]
+Package epstopdf Info: Source file: <graph/cond-A-2D-circular-interface.eps>
+(epstopdf)                    date: 2017-09-02 15:52:52
+(epstopdf)                    size: 103991 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-circular-interface-eps-con
+verted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:53:14
+(epstopdf)                    size: 9682 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-circular-i
+nterface-eps-converted-to.pdf graph/cond-A-2D-circular-interface.eps>
+(epstopdf)             \includegraphics on input line 1251.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-circular-interface-eps-converted-to.pdf, id=572, 370.38374pt x
+ 310.15875pt>
+File: graph/cond-A-2D-circular-interface-eps-converted-to.pdf Graphic file (typ
+e pdf)
+ <use graph/cond-A-2D-circular-interface-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-circular-interface-eps-converted-to.pd
+f used on input line 1251.
+(pdftex.def)             Requested size: 203.71169pt x 170.58783pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-pcircular-DD.eps>
+(epstopdf)                    date: 2017-09-02 15:57:59
+(epstopdf)                    size: 103431 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-pcircular-DD-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:59:19
+(epstopdf)                    size: 10008 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-pcircular-
+DD-eps-converted-to.pdf graph/cond-A-2D-pcircular-DD.eps>
+(epstopdf)             \includegraphics on input line 1291.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-pcircular-DD-eps-converted-to.pdf, id=573, 356.33125pt x 293.0
+95pt>
+File: graph/cond-A-2D-pcircular-DD-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use graph/cond-A-2D-pcircular-DD-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-pcircular-DD-eps-converted-to.pdf used
+ on input line 1291.
+(pdftex.def)             Requested size: 199.46198pt x 164.06499pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-pcircular-DN.eps>
+(epstopdf)                    date: 2017-09-02 15:58:17
+(epstopdf)                    size: 103415 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-pcircular-DN-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:59:19
+(epstopdf)                    size: 9968 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-pcircular-
+DN-eps-converted-to.pdf graph/cond-A-2D-pcircular-DN.eps>
+(epstopdf)             \includegraphics on input line 1296.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-pcircular-DN-eps-converted-to.pdf, id=574, 356.33125pt x 293.0
+95pt>
+File: graph/cond-A-2D-pcircular-DN-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use graph/cond-A-2D-pcircular-DN-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-pcircular-DN-eps-converted-to.pdf used
+ on input line 1296.
+(pdftex.def)             Requested size: 199.46198pt x 164.06499pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-pcircular-ND.eps>
+(epstopdf)                    date: 2017-09-02 15:58:38
+(epstopdf)                    size: 103510 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-pcircular-ND-eps-converted
+-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:59:20
+(epstopdf)                    size: 9935 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-pcircular-
+ND-eps-converted-to.pdf graph/cond-A-2D-pcircular-ND.eps>
+(epstopdf)             \includegraphics on input line 1301.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-pcircular-ND-eps-converted-to.pdf, id=575, 361.35pt x 310.1587
+5pt>
+File: graph/cond-A-2D-pcircular-ND-eps-converted-to.pdf Graphic file (type pdf)
+
+ <use graph/cond-A-2D-pcircular-ND-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-pcircular-ND-eps-converted-to.pdf used
+ on input line 1301.
+(pdftex.def)             Requested size: 199.46198pt x 171.20308pt.
+Package epstopdf Info: Source file: <graph/cond-A-2D-pcircular-interface.eps>
+(epstopdf)                    date: 2017-09-02 15:59:00
+(epstopdf)                    size: 103987 bytes
+(epstopdf)             Output file: <graph/cond-A-2D-pcircular-interface-eps-co
+nverted-to.pdf>
+(epstopdf)                    date: 2017-09-02 15:59:20
+(epstopdf)                    size: 9686 bytes
+(epstopdf)             Command: <repstopdf --outfile=graph/cond-A-2D-pcircular-
+interface-eps-converted-to.pdf graph/cond-A-2D-pcircular-interface.eps>
+(epstopdf)             \includegraphics on input line 1306.
+Package epstopdf Info: Output file is already uptodate.
+
+<graph/cond-A-2D-pcircular-interface-eps-converted-to.pdf, id=576, 370.38374pt 
+x 310.15875pt>
+File: graph/cond-A-2D-pcircular-interface-eps-converted-to.pdf Graphic file (ty
+pe pdf)
+ <use graph/cond-A-2D-pcircular-interface-eps-converted-to.pdf>
+Package pdftex.def Info: graph/cond-A-2D-pcircular-interface-eps-converted-to.p
+df used on input line 1306.
+(pdftex.def)             Requested size: 199.46198pt x 167.02888pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[32 <./graph/cond-A-2D-circular-interface-eps-converted-to.pdf>] [33 <./graph/c
+ond-A-2D-pcircular-DD-eps-converted-to.pdf> <./graph/cond-A-2D-pcircular-DN-eps
+-converted-to.pdf> <./graph/cond-A-2D-pcircular-ND-eps-converted-to.pdf> <./gra
+ph/cond-A-2D-pcircular-interface-eps-converted-to.pdf>] [34] (./report.aux) ) 
+Here is how much of TeX's memory you used:
+ 4102 strings out of 494910
+ 68180 string characters out of 6179836
+ 135501 words of memory out of 5000000
+ 7288 multiletter control sequences out of 15000+600000
+ 12575 words of font info for 45 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 42i,9n,39p,793b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+</
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share
+/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/latxfont/linew10.pfb>
+Output written on report.pdf (34 pages, 646889 bytes).
+PDF statistics:
+ 676 PDF objects out of 1000 (max. 8388607)
+ 455 compressed objects within 5 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+

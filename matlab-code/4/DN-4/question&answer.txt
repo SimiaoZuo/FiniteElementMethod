@@ -1,0 +1,9 @@
+question:
+-a(x) * u''(x) = 1
+u(0)=0, u'(1)=0
+a(x) = 1 when 0 <= x < 1/4
+a(x) = A when 1/4 <= x <= 1
+
+answer:
+-x^2/2 + x when 0 <= x < 1/4
+-x^2/20 + x/10 + 63/320 when 1/4 <= x <=1
